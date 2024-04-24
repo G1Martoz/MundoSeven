@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="EOS" userid="0002e18904d64b4a90ca5ae49b209153" nativeplatform="Steam" nativeuserid="76561198261986797" playername="G1Martoz" lastlogin="2024-04-23 22:14:31" position="1405,40,-217">
+  <player platform="EOS" userid="0002e18904d64b4a90ca5ae49b209153" nativeplatform="Steam" nativeuserid="76561198261986797" playername="G1Martoz" lastlogin="2024-04-24 16:46:36" position="1430,36,-376">
     <acl platform="EOS" userid="00024c5f7a554a6e9a53cca22a65fd35" />
     <lpblock pos="1434,35,-374" />
     <questpositions>
@@ -15,16 +15,14 @@
       <position id="-1076127677" positiondatatype="7" pos="1762,35,-587" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="00024c5f7a554a6e9a53cca22a65fd35" nativeplatform="Steam" nativeuserid="76561198384815547" playername="Octane" lastlogin="2024-04-23 21:50:58" position="1405,40,-219">
+  <player platform="EOS" userid="00024c5f7a554a6e9a53cca22a65fd35" nativeplatform="Steam" nativeuserid="76561198384815547" playername="Octane" lastlogin="2024-04-24 16:38:15" position="-39,56,-1396">
     <acl platform="EOS" userid="0002e18904d64b4a90ca5ae49b209153" />
     <bedroll pos="4431,39,657" />
     <questpositions>
-      <position id="-266981775" positiondatatype="4" pos="937,43,-870" />
-      <position id="-1896465620" positiondatatype="4" pos="1415,31,286" />
-      <position id="-1076127677" positiondatatype="2" pos="1719,30,-620" />
-      <position id="-1076127677" positiondatatype="0" pos="1346,38,-336" />
       <position id="1331433627" positiondatatype="2" pos="1785,35,-465" />
       <position id="1331433627" positiondatatype="0" pos="1346,38,-336" />
+      <position id="-1076127677" positiondatatype="2" pos="1719,30,-620" />
+      <position id="-1076127677" positiondatatype="0" pos="1346,38,-336" />
     </questpositions>
   </player>
 </persistentplayerdata>
